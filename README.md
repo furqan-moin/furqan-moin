@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center">- 🔭 I'm currently working on *Private Projects*</p>
+<p align="center">- 🔭 I'm currently working with *OLA*</p>
 
 <p align="center">- 🌱 I'm currently learning *Typescript*</p>
 
