@@ -14,11 +14,11 @@
 
 <p align="center">- 🔭 I'm currently working with *OLA*</p>
 
-<p align="center">- 🌱 I'm currently learning *Typescript*</p>
+<p align="center">- 🌱 I'm currently learning *DSA using Java*</p>
 
-<p align="center">- 💬 Ask me about *Machine Learning*</p>
+<p align="center">- 💬 Ask me about *System Design*</p>
 
-<p align="center">- ⚡ Fun fact *I like chess 😍*</p>
+<p align="center">- ⚡ Fun fact *I like Current Affairs 😍*</p>
 
 <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 
