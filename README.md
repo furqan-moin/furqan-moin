@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there, I'm Mohammad Furqan</h1>
+<h1 align="center">🚀 Hey there, I'm Furqan Moin</h1>
 <h3 align="center">Java Backend Engineer | SDE Aspirant | Problem Solver from India 🇮🇳</h3>
 
 <br>
