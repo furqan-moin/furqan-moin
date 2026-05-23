@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there, I'm Furqan Moin</h1>
-<h3 align="center">Java Backend Engineer | SDE Aspirant | Problem Solver from India 🇮🇳</h3>
+<h3 align="center">Java Backend Engineer | Problem Solver from India 🇮🇳</h3>
 
 <br>
 
