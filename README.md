@@ -1,15 +1,26 @@
 <h1 align="center">🚀 Hey there, I'm Furqan Moin</h1>
-<h3 align="center">Java Backend Engineer | Problem Solver from India 🇮🇳</h3>
 
-<br>
+<h3 align="center">
+Backend Engineer | Java | Spring Boot | REST APIs | Microservices | Distributed Systems
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furqan-moin&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/mohammad-furqan-363a56187/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/furqan-moin">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://leetcode.com/u/Mohammad_Furqan/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
-<div align="center">
-  <img width="84%" src="https://github-profile-trophy.vercel.app/?username=furqan-moin&theme=algolia&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furqan-moin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -64,15 +75,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan-moin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=furqan-moin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="36%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furqan-moin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-moin&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-moin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=furqan-moin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
