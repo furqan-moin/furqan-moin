@@ -85,14 +85,6 @@ Backend Engineer | Java | Spring Boot | REST APIs | Microservices | Distributed 
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</p>
-
----
-
 ## 🎵 Vibing While Coding
 
 <p align="center">
